@@ -1,7 +1,7 @@
 version: 2.1
 
 description: >
-  Sample orb description
+  This package allows to calculate next version of the artifact based on the git tags.
 # What will your orb allow users to accomplish?
 # Descriptions should be short, simple, and informative.
 
